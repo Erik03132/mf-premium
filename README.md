@@ -9,3 +9,4 @@
 
 ## 🛠 Tech Stack
 - Next.js 15, Tailwind CSS v4, Framer Motion, Supabase.
+
